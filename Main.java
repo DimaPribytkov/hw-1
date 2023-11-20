@@ -6,5 +6,7 @@ public class Main {
         System.out.print("**** Name: \"you name\"   ****\n");
         System.out.print("**** Skype: you skype ****\n");
         System.out.print("**************************");
+        System.out.print("*************************");
+
     }
 }
